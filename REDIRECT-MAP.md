@@ -74,14 +74,14 @@
 You can test these redirects on your live site:
 
 ### Equipment Redirects (→ EquipmentCalculators.com)
-- https://my-financing-options-iciu8suay-patricks-projects-c168084d.vercel.app/calculators/equipment
-- https://my-financing-options-iciu8suay-patricks-projects-c168084d.vercel.app/calculators/equipment/construction-equipment
-- https://my-financing-options-iciu8suay-patricks-projects-c168084d.vercel.app/calculators/equipment/restaurant-equipment
+- https://www.myfinancingoptions.com/calculators/equipment
+- https://www.myfinancingoptions.com/calculators/equipment/construction-equipment
+- https://www.myfinancingoptions.com/calculators/equipment/restaurant-equipment
 
 ### SBA Redirects (→ SBACalculators.com)
-- https://my-financing-options-iciu8suay-patricks-projects-c168084d.vercel.app/calculators/sba
-- https://my-financing-options-iciu8suay-patricks-projects-c168084d.vercel.app/blog
-- https://my-financing-options-iciu8suay-patricks-projects-c168084d.vercel.app/about
+- https://www.myfinancingoptions.com/calculators/sba
+- https://www.myfinancingoptions.com/blog
+- https://www.myfinancingoptions.com/about
 
 ---
 

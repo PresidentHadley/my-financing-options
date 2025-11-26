@@ -2,107 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Homepage -->
   <url>
-    <loc>https://myfinancingoptions.com/</loc>
+    <loc>https://www.myfinancingoptions.com/</loc>
     <priority>1.0</priority>
   </url>
   
   <!-- SBA Calculator Pages -->
   <url>
-    <loc>https://myfinancingoptions.com/calculators/sba</loc>
+    <loc>https://www.myfinancingoptions.com/calculators/sba</loc>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://myfinancingoptions.com/calculators/comparison</loc>
+    <loc>https://www.myfinancingoptions.com/calculators/comparison</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://myfinancingoptions.com/calculators/specialized</loc>
+    <loc>https://www.myfinancingoptions.com/calculators/specialized</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://myfinancingoptions.com/calculators/business-ops</loc>
+    <loc>https://www.myfinancingoptions.com/calculators/business-ops</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://myfinancingoptions.com/calculators/real-estate</loc>
+    <loc>https://www.myfinancingoptions.com/calculators/real-estate</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://myfinancingoptions.com/calculators</loc>
+    <loc>https://www.myfinancingoptions.com/calculators</loc>
     <priority>0.8</priority>
   </url>
   
   <!-- Equipment Pages -->
   <url>
-    <loc>https://myfinancingoptions.com/calculators/equipment</loc>
+    <loc>https://www.myfinancingoptions.com/calculators/equipment</loc>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://myfinancingoptions.com/calculators/equipment/construction-equipment</loc>
+    <loc>https://www.myfinancingoptions.com/calculators/equipment/construction-equipment</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://myfinancingoptions.com/calculators/equipment/restaurant-equipment</loc>
+    <loc>https://www.myfinancingoptions.com/calculators/equipment/restaurant-equipment</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://myfinancingoptions.com/calculators/equipment/medical-equipment</loc>
+    <loc>https://www.myfinancingoptions.com/calculators/equipment/medical-equipment</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://myfinancingoptions.com/calculators/equipment/used-equipment-loan</loc>
+    <loc>https://www.myfinancingoptions.com/calculators/equipment/used-equipment-loan</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://myfinancingoptions.com/calculators/equipment/heavy-machinery</loc>
+    <loc>https://www.myfinancingoptions.com/calculators/equipment/heavy-machinery</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://myfinancingoptions.com/calculators/equipment/vehicle-fleet</loc>
+    <loc>https://www.myfinancingoptions.com/calculators/equipment/vehicle-fleet</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://myfinancingoptions.com/calculators/equipment/manufacturing-equipment</loc>
+    <loc>https://www.myfinancingoptions.com/calculators/equipment/manufacturing-equipment</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://myfinancingoptions.com/calculators/equipment/equipment-lease-vs-buy</loc>
+    <loc>https://www.myfinancingoptions.com/calculators/equipment/equipment-lease-vs-buy</loc>
     <priority>0.8</priority>
   </url>
   
   <!-- Blog Pages -->
   <url>
-    <loc>https://myfinancingoptions.com/blog</loc>
+    <loc>https://www.myfinancingoptions.com/blog</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://myfinancingoptions.com/blog/industry-specific-financing-guide</loc>
+    <loc>https://www.myfinancingoptions.com/blog/industry-specific-financing-guide</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://myfinancingoptions.com/blog/business-loan-options</loc>
+    <loc>https://www.myfinancingoptions.com/blog/business-loan-options</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://myfinancingoptions.com/blog/comparing-financing-options-guide</loc>
+    <loc>https://www.myfinancingoptions.com/blog/comparing-financing-options-guide</loc>
     <priority>0.7</priority>
   </url>
   
   <!-- Utility Pages -->
   <url>
-    <loc>https://myfinancingoptions.com/about</loc>
+    <loc>https://www.myfinancingoptions.com/about</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://myfinancingoptions.com/contact</loc>
+    <loc>https://www.myfinancingoptions.com/contact</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://myfinancingoptions.com/terms</loc>
+    <loc>https://www.myfinancingoptions.com/terms</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://myfinancingoptions.com/qualify</loc>
+    <loc>https://www.myfinancingoptions.com/qualify</loc>
     <priority>0.7</priority>
   </url>
 </urlset>

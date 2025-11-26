@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://myfinancingoptions.com/sitemap.xml
+Sitemap: https://www.myfinancingoptions.com/sitemap.xml
 
