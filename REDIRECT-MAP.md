@@ -1,9 +1,9 @@
 # My Financing Options - Redirect Map
 
 ## 📊 Summary
-- **Total Redirects:** 25 specific routes + 1 catch-all
+- **Total Redirects:** 24 specific routes
 - **Destinations:** 
-  - **SBACalculators.com** → 14 redirects
+  - **SBACalculators.com** → 15 redirects (including homepage)
   - **EquipmentCalculators.com** → 9 redirects
 
 ---
@@ -59,12 +59,13 @@
 
 ---
 
-## 🏠 Homepage & Catch-All → SBACalculators.com
+## 🏠 Homepage → SBACalculators.com
 
 | Source URL | Destination URL |
 |------------|----------------|
 | `/` | `https://sbacalculators.com/` |
-| `/:path*` (any other path) | `https://sbacalculators.com/` |
+
+**Note:** The catch-all redirect has been removed to allow static files like `sitemap.xml` and `robots.txt` to be served properly. Any undefined routes will show a 404 page.
 
 ---
 
@@ -86,8 +87,8 @@ You can test these redirects on your live site:
 
 ## ✅ All Redirects Are Active
 
-All 25 redirects are properly configured and deployed:
+All 24 redirects are properly configured and deployed:
 - ✅ **9 Equipment pages** → EquipmentCalculators.com
-- ✅ **14 SBA/Blog/Utility pages** → SBACalculators.com
-- ✅ **1 Catch-all** for unknown URLs → SBACalculators.com
+- ✅ **15 SBA/Blog/Utility/Homepage pages** → SBACalculators.com
+- ✅ **Static files** (sitemap.xml, robots.txt) are served correctly
 
