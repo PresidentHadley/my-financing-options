@@ -140,11 +140,8 @@ module.exports = {
         destination: 'https://sbacalculators.com/',
         permanent: true,
       },
-      {
-        source: '/:path*',
-        destination: 'https://sbacalculators.com/',
-        permanent: true,
-      },
+      // Note: Removed catch-all /:path* to allow sitemap.xml, robots.txt, and other static files to be served
+      // Any undefined routes will naturally show 404, which is fine for a redirect-only site
     ]
   },
 }
